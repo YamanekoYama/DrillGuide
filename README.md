@@ -1,2 +1,2 @@
 # DrillGuide
-3D STL data of drill guide
+3D STL data for drill guides
